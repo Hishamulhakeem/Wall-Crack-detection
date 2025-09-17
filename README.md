@@ -1,4 +1,4 @@
-# Wall Crack Detection using CNN 🧱🧠
+# Wall Crack Detection 🧱🧠
 
 This project uses a Convolutional Neural Network (CNN) built with TensorFlow and Keras to classify images of walls into two categories:
 - **Cracks**
